@@ -10,4 +10,6 @@ public class SpringDataJpaHwApplication {
 		SpringApplication.run(SpringDataJpaHwApplication.class, args);
 	}
 
+
+
 }
